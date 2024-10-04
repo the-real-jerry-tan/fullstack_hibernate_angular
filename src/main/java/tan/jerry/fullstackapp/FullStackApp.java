@@ -1,6 +1,6 @@
 
 /*
- * Copyright (c) 2024 YourName. All rights reserved.
+ * Copyright (c) 2024 Jerry Tan. All rights reserved.
  * 
  * This is a full-stack web application demonstrating the use of Spring Boot and Hibernate for the backend and Angular for the frontend.
  * The backend uses Hibernate for ORM and database persistence.
